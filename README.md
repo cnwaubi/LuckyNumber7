@@ -1,6 +1,6 @@
 # Project 1: Taking a Shot at the Free Throw
 
-![alt text](https://github.com/cnwaubi/LuckyNumber7/tree/master/Images/grannythrow.gif "Swish Swish")
+![Swish Swish](./Images/grannythrow.gif)
 
 ## Questions to answer:
 
