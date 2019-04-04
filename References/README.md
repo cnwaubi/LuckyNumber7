@@ -11,3 +11,5 @@
 [Single Player Scholarly Paper (gmu.edu)](http://mars.gmu.edu/bitstream/handle/1920/10852/Johnson_thesis_2017.pdf?sequence=1&isAllowed=y)
 
 [Single Player ML Prediction](https://towardsdatascience.com/basketball-analytics-predicting-win-shares-7c155651e7cc)
+
+[Mysportsfeed API example Python](https://github.com/MySportsFeeds/mysportsfeeds-python)
